@@ -1,5 +1,5 @@
 ---
-title: 'Shallow Reading Behavior Recognition Program'
+title: 'Identification of Shallow Reading Behavior in Online Learning Environments'
 tags:
   - Education
   - Machine Learning
